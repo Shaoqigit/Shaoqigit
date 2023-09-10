@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shaoqigit&theme=transparent&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaoqigit)](https://github.com/Shaoqigit/github-readme-stats)
