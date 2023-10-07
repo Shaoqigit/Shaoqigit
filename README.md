@@ -5,6 +5,8 @@ Feel free to browse my space and leave your stars, comments, PR, issues :smirk:
 
 I am currently working on commercial FEM software development and some personal fun projects on sound simulation.
 
+Personal interest is on Finite Element Method, Model Order Reduction (MOR) and relevant numerical methods for science.
+
 <!--
 **Shaoqigit/Shaoqigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
